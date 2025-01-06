@@ -1,5 +1,5 @@
-#Calculator
-A simple calculator application built with HTML, CSS, and JavaScript. <br>
+<b>Calculator</b>
+A simple calculator application built with HTML, CSS, and JavaScript. <a href='https://akinolafemi.com.ng/projects/Calculator-File/calculator.html'>Visit Web Calculator here</a> <br>
 
 Features<hr>
 Basic arithmetic operations: addition, subtraction, multiplication, and division<br>
